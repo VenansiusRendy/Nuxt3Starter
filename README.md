@@ -32,6 +32,21 @@ pnpm run dev
 yarn dev
 ```
 
+## Lint
+
+To list the linting suggestion
+
+```bash
+# npm
+npm run lint
+```
+
+To apply linting suggestion to code
+
+```bash
+npm run lintfix
+```
+
 ## Production
 
 Build the application for production:
